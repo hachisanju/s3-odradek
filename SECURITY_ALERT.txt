@@ -1,0 +1,6 @@
+!!IMPORTANT!!
+
+If you are seeing this file it means that you have public write enabled for this
+bucket. There may be other public functions enabled on this bucket as well. You
+should restrict public write access immediately to prevent further unauthorized
+manipulation of your files.
